@@ -1,0 +1,11 @@
+/Users/Craterzone/Projects/Task/Task/bin/Debug/netcoreapp2.1/Task.deps.json
+/Users/Craterzone/Projects/Task/Task/bin/Debug/netcoreapp2.1/Task.runtimeconfig.json
+/Users/Craterzone/Projects/Task/Task/bin/Debug/netcoreapp2.1/Task.runtimeconfig.dev.json
+/Users/Craterzone/Projects/Task/Task/bin/Debug/netcoreapp2.1/Task.dll
+/Users/Craterzone/Projects/Task/Task/bin/Debug/netcoreapp2.1/Task.pdb
+/Users/Craterzone/Projects/Task/Task/obj/Debug/netcoreapp2.1/Task.csprojAssemblyReference.cache
+/Users/Craterzone/Projects/Task/Task/obj/Debug/netcoreapp2.1/Task.csproj.CoreCompileInputs.cache
+/Users/Craterzone/Projects/Task/Task/obj/Debug/netcoreapp2.1/Task.AssemblyInfoInputs.cache
+/Users/Craterzone/Projects/Task/Task/obj/Debug/netcoreapp2.1/Task.AssemblyInfo.cs
+/Users/Craterzone/Projects/Task/Task/obj/Debug/netcoreapp2.1/Task.dll
+/Users/Craterzone/Projects/Task/Task/obj/Debug/netcoreapp2.1/Task.pdb
